@@ -12,9 +12,7 @@ if __name__ == '__main__':
 
 print("somthing changr")
 print("somthing changr")
-print("somthing changr")
 
-print("somthing changr")
-print("somthing changr")
-print("somthing changr")
-print("somthing changr")
+
+def my_little_pain(head):
+    print(head)
