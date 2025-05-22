@@ -14,7 +14,4 @@ print("somthing changr")
 print("somthing changr")
 print("somthing changr")
 
-print("somthing changr")
-print("somthing changr")
-print("somthing changr")
-print("somthing changr")
+new_changes
