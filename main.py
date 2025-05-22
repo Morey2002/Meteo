@@ -15,4 +15,5 @@ print("somthing changr")
 
 def my_little_pain(head):
     print(head)
-new_changes
+new_changes = 22 ** 5
+print(new_changes)
