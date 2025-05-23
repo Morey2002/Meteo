@@ -18,3 +18,8 @@ def my_little_pain(head):
     print(99999)
 new_changes = 22 ** 5
 print(new_changes)
+def decor(decoring):
+    return decoring
+
+
+print(decor(555))
